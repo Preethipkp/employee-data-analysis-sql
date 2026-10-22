@@ -1,0 +1,11 @@
+employee_id,employee_name,department,job_role,salary,age,joining_date,experience_years
+101,Anu,IT,Data Analyst,55000,25,10-06-2022,3
+102,Rahul,HR,HR Executive,42000,28,15-03-2021,5
+103,Meera,IT,Python Developer,65000,27,20-08-2020,6
+104,Arun,Finance,Accountant,48000,30,12-01-2019,7
+105,Neha,IT,Data Scientist,80000,29,05-11-2021,5
+106,Vishnu,HR,Recruiter,40000,26,18-02-2023,2
+107,Sneha,Finance,Financial Analyst,60000,31,25-07-2018,8
+108,Akhil,IT,Web Developer,52000,24,14-05-2023,2
+109,Divya,Sales,Sales Executive,45000,27,30-09-2022,4
+110,Manu,Sales,Sales Manager,70000,35,11-04-2017,10
